@@ -1,0 +1,15 @@
+C:\Users\student\Documents\Visual Studio 2015\Projects\DungeonApplication\DungeonLibrary\obj\Debug\DungeonLibrary.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2015\Projects\DungeonApplication\DungeonLibrary\bin\Debug\DungeonLibrary.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\DungeonApplication\DungeonLibrary\bin\Debug\DungeonLibrary.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\DungeonApplication\DungeonLibrary\obj\Debug\DungeonLibrary.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\DungeonApplication\DungeonLibrary\obj\Debug\DungeonLibrary.pdb
+E:\Documents\Visual Studio 2015\Projects\DungeonApplication\DungeonLibrary\bin\Debug\DungeonLibrary.dll
+E:\Documents\Visual Studio 2015\Projects\DungeonApplication\DungeonLibrary\bin\Debug\DungeonLibrary.pdb
+E:\Documents\Visual Studio 2015\Projects\DungeonApplication\DungeonLibrary\obj\Debug\DungeonLibrary.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\DungeonApplication\DungeonLibrary\obj\Debug\DungeonLibrary.dll
+E:\Documents\Visual Studio 2015\Projects\DungeonApplication\DungeonLibrary\obj\Debug\DungeonLibrary.pdb
+E:\Documents\Visual Studio 2015\Projects\DungeonGame\src\DungeonLibrary\bin\Debug\DungeonLibrary.dll
+E:\Documents\Visual Studio 2015\Projects\DungeonGame\src\DungeonLibrary\bin\Debug\DungeonLibrary.pdb
+E:\Documents\Visual Studio 2015\Projects\DungeonGame\src\DungeonLibrary\obj\Debug\DungeonLibrary.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\DungeonGame\src\DungeonLibrary\obj\Debug\DungeonLibrary.dll
+E:\Documents\Visual Studio 2015\Projects\DungeonGame\src\DungeonLibrary\obj\Debug\DungeonLibrary.pdb

@@ -1,0 +1,5 @@
+E:\Documents\Visual Studio 2015\Projects\DungeonApplication\DungeonLibrary\bin\Release\DungeonLibrary.dll
+E:\Documents\Visual Studio 2015\Projects\DungeonApplication\DungeonLibrary\bin\Release\DungeonLibrary.pdb
+E:\Documents\Visual Studio 2015\Projects\DungeonApplication\DungeonLibrary\obj\Release\DungeonLibrary.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\DungeonApplication\DungeonLibrary\obj\Release\DungeonLibrary.dll
+E:\Documents\Visual Studio 2015\Projects\DungeonApplication\DungeonLibrary\obj\Release\DungeonLibrary.pdb
